@@ -1,6 +1,6 @@
 # NewsApp
 
-My News will keep you updated with the latest news.
+My NewsApp will keep you updated with the latest news.
 The News API was used to fetch the latest news.
 
 To run the app follow the below steps
@@ -10,6 +10,4 @@ To run the app follow the below steps
 4.Run the code
 
 
-or
 
-add the lib folder in your project,add packages and run the code.
